@@ -1,0 +1,6 @@
+1. HTTP(hyper text transfer protocol).
+2. Network layer(layer-3).
+3. TCP(transmission control protocol) .
+4. wired Ethernet connection or wireless WI-FI connection.
+5. Physical layer.
+6. MAC(media access control address).
